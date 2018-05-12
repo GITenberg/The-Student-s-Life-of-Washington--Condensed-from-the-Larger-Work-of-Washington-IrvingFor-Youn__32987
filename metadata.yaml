@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32987#The-Student-s-Life-of-Washington--Condensed-from-the-Larger-Work-of-Washington-IrvingFor-Youn_
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
 identifiers:
